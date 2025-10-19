@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Business Card (intro 
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/696).
 
 
-## 10/18/2025 - Laid out the PCB, and did a first attempt at routing (BAD)  
+## 10/18/2025 1 PM - Laid out the PCB, and did a first attempt at routing (BAD)  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ab41ebbc0fa58e12993e0150eebec80c076464b7/image.png)
 
@@ -28,4 +28,14 @@ I also tried to use the auto router like it suggested, but everything went real 
 I got it routed to the point where theres no more blue lines which i THINK means its valid? however the routing is embarrassingly messy and for a card I'm trying to present to people it's 100% not good enough. 
 
 My next work session should be redoing routing and adding design stuff. Routing is hard :/  
+
+## 10/18/2025 10 PM - Routed the PCB  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIxNywicHVyIjoiYmxvYl9pZCJ9fQ==--a4f8750b491df2aecebd33bf9fd17699ac71b168/image.png)
+
+I'm pretty sure this routing is still not very good, so I'm going to have a longer crack at it tommorow when I'm not half asleep, this is exciting tho. 
+
+Idk if anyone sees these but feedback would be awesoime!
+
+Aligning all the pieces proved to be a challenge, but I think I just need to use the backside more efficiently.   
 
