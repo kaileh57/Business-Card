@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Business Card (intro to PCBs)**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/696).
-
-
 ## 10/18/2025 1 PM - Laid out the PCB, and did a first attempt at routing (BAD)  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ab41ebbc0fa58e12993e0150eebec80c076464b7/image.png)
@@ -38,4 +34,13 @@ I'm pretty sure this routing is still not very good, so I'm going to have a long
 Idk if anyone sees these but feedback would be awesoime!
 
 Aligning all the pieces proved to be a challenge, but I think I just need to use the backside more efficiently.   
+
+## 10/21/2025 - Re routed the PCB plus some design stuff  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI5NywicHVyIjoiYmxvYl9pZCJ9fQ==--39215434d68f239a17683cb996b8dbcc2a2d903d/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c998b50b2bffcbbdcc52a83f4cb9af59d46ed6b4/image.png)
+
+I learned a lot from routing the PCB so many times, and I think it's actually serviceable this time. I spent about an hour and a half on routing until it was perfect, and since then I've done another hour or so of design work for the actual business part of the business card. 
+
+I wish I could dip this in ENIG but that's wayyyy out of budget 😭 maybe in the future 🙏  
 
